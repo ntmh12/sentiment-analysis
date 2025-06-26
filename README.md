@@ -22,7 +22,7 @@ This project aims to analyze user sentiment based on comments and interaction be
 ### 📍 User vs Video Type Analysis
 ![User vs Video](visualization/users_vs_video_type_analysis.png)
 
-### 📍 Sentiment Analysis by Tag
+### 📍 Sentiment Analysis by Tag and Video
 ![Sentiment Analysis](visualization/sentiment_analysis.png)
 
 ---
