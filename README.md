@@ -1,4 +1,4 @@
-# 📊 Sentiment Analysis
+# 📊 Sentiment Analysis with Python & Power BI
 
 This repository showcases a complete sentiment analysis project built with Power BI, using Vietnamese customer feedback data collected from a video streaming platform. The project includes sentiment classification, data modeling, and interactive dashboard visualization.
 
