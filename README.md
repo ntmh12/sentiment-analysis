@@ -24,4 +24,8 @@ Key analyses include:
 ## 📁 Project Files  
 - 📄 [Sentiment Analysis](https://github.com/ntmh12/sentiment-analysis/blob/main/Sentiment%20code.ipynb): Main notebook for sentiment scoring and analysis  
 - 📊 [Dashboard](https://github.com/ntmh12/sentiment-analysis/tree/main/visualization): Screenshot & Interactive Power BI report  
-- 📃 [Sentiment Report](https://github.com/ntmh12/sentiment-analysis/blob/main/Sentiment%20Analysis%20report.pdf): Final report summarizing findings and recommendations  
+- 📃 [Sentiment Report](https://github.com/ntmh12/sentiment-analysis/blob/main/Sentiment%20Analysis%20report.pdf): Final report summarizing findings and recommendations
+
+---
+
+**The end!**
