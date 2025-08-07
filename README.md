@@ -14,8 +14,7 @@ Key analyses include:
 
 ## 🧰 Tools & Technologies  
 - **Python**: pandas, numpy, PhoBERT (Vietnamese NLP)  
-- **Power BI**: interactive visualization of sentiment results  
-- **GitHub**: Documentation and version control
+- **Power BI**: interactive visualization of sentiment results
 
 ## 🎯 Key Insights  
 - Although the **"vod"** tag generated the highest number of comments overall, its positive sentiment rate (37.71%) was lower than that of smaller tags, suggesting quantity does not necessarily correlate with satisfaction.  
@@ -26,7 +25,3 @@ Key analyses include:
 - 📄 [Sentiment Analysis](https://github.com/ntmh12/sentiment-analysis/blob/main/Sentiment%20code.ipynb): Main notebook for sentiment scoring and analysis  
 - 📊 [Dashboard](https://github.com/ntmh12/sentiment-analysis/tree/main/visualization): Screenshot & Interactive Power BI report  
 - 📃 [Sentiment Report](https://github.com/ntmh12/sentiment-analysis/blob/main/Sentiment%20Analysis%20report.pdf): Final report summarizing findings and recommendations  
-
-## 📬 Contact
- 
-💼 [LinkedIn](https://www.linkedin.com/in/nguyen-thi-minh-huong/)
